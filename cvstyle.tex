@@ -1,0 +1,54 @@
+% Stylesheet used to format C.V.
+
+%set font size to 12 point (TODO: how?)
+
+
+\usepackage[letterpaper,margin=1in]{geometry}
+
+%set font to times
+
+\usepackage{times}
+
+
+% do not justify
+\raggedright
+
+
+\usepackage{titlesec}
+
+% make section titles uppercase+bold
+\titleformat{\section}
+  {\normalfont\bfseries\uppercase}{\thesection}{1em}{}
+
+% make subsections superscript+bold
+
+\titleformat{\subsection}
+  {\normalfont\bfseries\scshape}{\thesection}{1em}{}
+
+% add horizonal line below section titles
+
+\newcommand{\tmpsection}[1]{}
+\let\tmpsection=\section
+\renewcommand{\section}[1]{\tmpsection{#1}\hrule\vspace{2mm}}
+
+% adjust spacing for titles
+
+
+\titlespacing\section{0pt}{12pt plus 4pt minus 2pt}{0pt plus 2pt minus 2pt}
+\titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{6pt plus 2pt minus 2pt}
+\titlespacing\subsubsection{0pt}{12pt plus 4pt minus 2pt}{0pt plus 2pt minus 2pt}
+
+
+
+% make a new title (get rid of huge whitespace of article
+% TODO: @title is showing up as title so have hardcoded
+\renewcommand{\maketitle}{
+\begin{center}
+{\large\bfseries \textit{Curriculum Vitae of A. Sean Pue}}
+\end{center}
+}
+
+% make all paragraphs hanging by 2.5em (to match line blocks)
+\leftskip 2.5em
+\parindent -2.5em
+
