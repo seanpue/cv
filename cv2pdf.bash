@@ -5,6 +5,7 @@
 # creates PDF out of ReStructuredText C.V. via Latex
 
 rst2latex.py cv.rst --documentoptions=letterpaper,12pt   \
+                    --strip-comments \
                     --strip-elements-with-class=contents \
                     -i utf8 \
                     --stylesheet-path=cvstyle.tex cv.tex  || { 
