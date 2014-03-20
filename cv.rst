@@ -185,6 +185,14 @@ Conference Papers
 
 .. Exact dates follow in comments.
 
+**2014**
+“Poets in a Muslim Land: 
+Sufism, Modernity, and Indo-Muslim Artistic Subjectivity.”
+Muslim Studies Conference on “Journeys of Practice”, 
+Michigan State University.
+
+.. 20 March 2014
+
 **2013**
 “Translating Rhythm: 
 Data-Rich Literary Analysis for Understanding the Politics of Literary Form.”
@@ -586,6 +594,6 @@ Languages
 
 .. admonition:: The current PDF version of this C.V. is available at http://seanpue.com/cv.pdf
 
-   This C.V. was last updated on 26 January 2014.
+   This C.V. was last updated on 30 January 2014.
 
 
