@@ -12,3 +12,5 @@ rst2latex.py cv.rst --documentoptions=letterpaper,12pt   \
   echo "command failed"; exit 1; 
 }
 pdflatex cv.tex
+# copy to index for webpage
+cp cv.rst index.rst
