@@ -188,13 +188,13 @@ Conference Papers
 **2014**
 “Poets in a Muslim Land: 
 Sufism, Modernity, and Indo-Muslim Artistic Subjectivity.”
-Muslim Studies Conference on “Journeys of Practice”, 
+Muslim Studies Conference on “Journeys of Practice,” 
 Michigan State University.
 
 .. 20 March 2014
 
 **2013**
-“Translating Rhythm: 
+(“Translating Rhythm: 
 Data-Rich Literary Analysis for Understanding the Politics of Literary Form.”
 XVI International Conference of the Forum on Contemporary Theory on
 “Translation, Comparatism and the Global South,” University of Mysore.
