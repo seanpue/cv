@@ -54,7 +54,6 @@ Academic Appointment
 
 | **2008–14** 
 |    Assistant Professor, Michigan State University
-|   
 
 --------------------
 Research Appointment
