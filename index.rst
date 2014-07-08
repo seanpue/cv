@@ -45,10 +45,16 @@ Contact Information
 --------------------
 Academic Appointment
 --------------------
-| **2008–** 
-    Assistant Professor, Michigan State University
+| **2014–**
+    Associate Professor, Michigan State University
 |   Department of Linguistics and Germanic, Slavic, Asian, and African Languages
 |   Core Faculty, Global Studies in Arts and Humanities
+
+.. 7 July 2014
+
+| **2008–14** 
+|    Assistant Professor, Michigan State University
+|   
 
 --------------------
 Research Appointment
