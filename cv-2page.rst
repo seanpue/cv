@@ -34,7 +34,7 @@
 Contact Information
 -------------------
 | **e-mail:**
-  a@seanpue.com 
+  pue@msu.edu 
   **twitter:** 
   @seanpue
   **github:**
