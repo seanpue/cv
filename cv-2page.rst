@@ -148,7 +148,7 @@ Teaching
 Michigan State University
 =========================
 
-AL 340: Digital Humanities Seminar (Spring 2013, Spring 2014)
+AL 340: Digital Humanities Seminar (Spring 2013, Spring 2014, Spring 2015)
 
 GSAH 311: Partition, Displacement, and Cultural Memory (Fall 2013)
 
@@ -156,13 +156,15 @@ GSAH 220: Global Espionage: Identity, Intelligence, Power (Fall 2012)
 
 GSAH 230: Encountering Difference: East-West, North-South (Fall 2009, Fall 2010, Fall 2011)
 
+GSAH 499: Senior Thesis in Global Studies in Arts and Humanities (Spring 2015)
+
 IAH 211B: Gandhi’s India in History, Literature, and Film (Spring 2009, Spring 2010)
 
 LL151.2: Basic Hindi I (Fall 2008, Fall 2009, Fall 2010, Fall 2012)
 
-LL152.2 Basic Hindi II (Spring 2009, Spring 2010, Spring 2013)
+LL152.2 Basic Hindi II (Spring 2009, Spring 2010, Spring 2013, Spring 2015)
 
-LL251.2: Intermediate Hindi I (Fall 2010, Fall 2011, Fall 2013))
+LL251.2: Intermediate Hindi I (Fall 2010, Fall 2011, Fall 2013)
 
 LL252.2: Intermediate Hindi II (Spring 2014)
 
@@ -193,6 +195,6 @@ Languages
 
 .. admonition:: The full version of this C.V. is available at http://seanpue.com/cv
 
-   This abbreviated C.V. was last updated on 20 August 2014.
+   This abbreviated C.V. was last updated on 5 February 2015.
 
    
