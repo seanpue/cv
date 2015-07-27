@@ -14,3 +14,4 @@ rst2latex.py cv.rst --documentoptions=letterpaper,12pt   \
 pdflatex cv.tex
 # copy to index for webpage
 cp cv.rst index.rst
+cp cv.pdf ../cv.pdf
