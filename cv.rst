@@ -287,6 +287,11 @@ Invited Presentations
 .. Exact dates follow in comments.
 
 **2015**
+“Topic Modeling Urdu Poetry." Locus: Texts Analysis in Humanities and Social Science, Michigan State University.
+
+.. 09 April 2015; Topic Modeling Urdu Poetry; http://digitalhumanities.msu.edu/locus/past/
+
+**2015**
 “The Digital Divan: Computational Approaches to Urdu Poetry.”
 YCSD Lecture, Habib University, Karachi.
 
