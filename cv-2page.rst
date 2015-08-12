@@ -42,6 +42,13 @@ Contact Information
 | **address:** 
   B-360 Wells Hall, 619 Red Cedar Road, East Lansing, MI 48824 U.S.A.
 
+--------------------------
+Administrative Appointment
+--------------------------
+| **2014—**
+    Director of Digital Humanities
+|   College of Arts and Letters, Michigan State University
+    
 --------------------
 Academic Appointment
 --------------------
@@ -195,6 +202,6 @@ Languages
 
 .. admonition:: The full version of this C.V. is available at http://seanpue.com/cv
 
-   This abbreviated C.V. was last updated on 5 February 2015.
+   This abbreviated C.V. was last updated on 12 August 2015.
 
    
