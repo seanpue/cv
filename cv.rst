@@ -42,6 +42,13 @@ Contact Information
 | **address:**
   B-360 Wells Hall, 619 Red Cedar Road, East Lansing, MI 48824 U.S.A.
 
+--------------------------
+Administrative Appointment
+--------------------------
+| **2015–**
+    Director of Digital Humanities, Michigan State University
+|   College of Arts and Letters
+
 --------------------
 Academic Appointment
 --------------------
@@ -297,6 +304,11 @@ Invited Presentations
 
 
 .. Exact dates follow in comments.
+
+**2015**
+“The Digital Divan: Computational Approaches to Urdu Poetry.” First International Urdu Conference, New York University.
+
+.. 16 October 2015
 
 **2015**
 “Topic Modeling Urdu Poetry." Locus: Texts Analysis in Humanities and Social Science, Michigan State University.
@@ -589,6 +601,8 @@ LL251.2: Intermediate Hindi I (Fall 2010, Fall 2011, Fall 2013)
 
 LL252.2: Intermediate Hindi II (Spring 2014)
 
+REL345: Religion in South Asia (Fall 2015)
+
 University of Chicago
 =====================
 Third- and Fourth-Year Hindi-3: Modern Hindi Poetry (Spring 2008)
@@ -611,10 +625,14 @@ American Institute of Pakistan Studies, Board of Trustees
 Michigan State University
 =========================
 
+
 **2014—**
+Global Studies in Arts and Humanities Events Committee
+
+**2014—5**
 Global Studies in Arts and Humanities Curriculum Committee
 
-**2013—**
+**2013—5**
 College Advisory Council, College of Arts and Letters
 
 **2013–14**
@@ -666,4 +684,4 @@ Languages
 
 .. admonition:: The current PDF version of this C.V. is available at http://seanpue.com/cv.pdf
 
-   This C.V. was last updated on 27 July 2015.
+   This C.V. was last updated on 7 October 2015.
