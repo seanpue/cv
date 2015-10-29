@@ -42,16 +42,16 @@ Contact Information
 | **address:**
   B-360 Wells Hall, 619 Red Cedar Road, East Lansing, MI 48824 U.S.A.
 
---------------------------
-Administrative Appointment
---------------------------
+---------------------------
+Administrative Appointments
+---------------------------
 | **2015–**
     Director of Digital Humanities, Michigan State University
 |   College of Arts and Letters
 
---------------------
-Academic Appointment
---------------------
+---------------------
+Academic Appointments
+---------------------
 | **2014–**
     Associate Professor, Michigan State University
 |   Department of Linguistics and Germanic, Slavic, Asian, and African Languages
@@ -59,9 +59,9 @@ Academic Appointment
 | **2008–14**
     Assistant Professor, Michigan State University
 
---------------------
-Research Appointment
---------------------
+---------------------
+Research Appointments
+---------------------
 | **2009–**
     Associate Research Scholar in Hindi and Urdu Literature and Studies, Columbia University
 |   Department of Middle Eastern, South Asian, and African Studies
@@ -192,6 +192,12 @@ Conference Papers
 =================
 
 .. Exact dates follow in comments.
+
+**2015**
+“The Village, The City, and the Tavern: Poetic Soundscapes of Majeed Amjad.”
+Annual Conference on South Asia, University of Wisconsin, Madison.
+
+.. 23 October 2015
 
 **2015**
 “Using Bioinformatic Algorithms to Analyze the Politics of Form in Modernist Urdu Poetry.”
@@ -466,6 +472,10 @@ Sarai @ Center for the Study of Developing Societies, New Delhi.
 Panels Organized
 ================
 
+**2015**
+“Canon, Soundscape, and Subjectivity: Reevaluating Majeed Amjad, the Lost Voice of Urdu Poetic Modernism.”
+Annual Conference on South Asia, University of Wisconsin, Madison.
+
 **2013**
 “Repositioned Realism.”
 American Comparative Literature Association Annual Meeting, Toronto
@@ -684,4 +694,4 @@ Languages
 
 .. admonition:: The current PDF version of this C.V. is available at http://seanpue.com/cv.pdf
 
-   This C.V. was last updated on 7 October 2015.
+   This C.V. was last updated on 29 October 2015.
