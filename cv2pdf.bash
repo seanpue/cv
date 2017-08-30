@@ -15,3 +15,5 @@ pdflatex cv.tex
 # copy to index for webpage
 cp cv.rst index.rst
 cp cv.pdf ../cv.pdf
+echo "Remember to change last updated date."
+open ../cv.pdf

@@ -193,6 +193,12 @@ Conference Papers
 
 .. Exact dates follow in comments.
 
+**2017**
+“Textual Encoding of Hindi/Urdu Poetry for Cross-lingual Analysis.”
+Digital Humanities Abu Dhabi, New York University Abu Dhabi.
+
+.. 12 April 2017
+
 **2015**
 “Using Bioinformatic Algorithms to Analyze Modernist Urdu Poetry.”
 Chicago Colloquium on Digital Humanities & Computer Science, University of Chicago.
@@ -682,6 +688,10 @@ American Institute of Pakistan Studies, Executive Committee
 **2009–**
 American Institute of Pakistan Studies, Board of Trustees
 
+**2016–**
+South Asian Muslim Studies Association, Board of Trustees
+
+
 Michigan State University
 =========================
 
@@ -737,8 +747,8 @@ Languages
 
 **reading:** French, German
 
-**programming:** C/C++, Java, Javascript, Mathlab, Perl, PHP, Python, R, XSLT
+**programming:** C/C++, Java, Javascript, Matlab, Perl, PHP, Python, R, XSLT
 
 .. admonition:: The current PDF version of this C.V. is available at http://seanpue.com/cv.pdf
 
-   This C.V. was last updated on 22 October 2016.
+   This C.V. was last updated on 30 October 2017.
