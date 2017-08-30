@@ -40,7 +40,7 @@ Contact Information
   **github:**
   seanpue
 | **address:**
-  B-360 Wells Hall, 619 Red Cedar Road, East Lansing, MI 48824 U.S.A.
+  B-269 Wells Hall, 619 Red Cedar Road, East Lansing, MI 48824 U.S.A.
 
 ---------------------
 Academic Appointments
@@ -269,7 +269,7 @@ American Comparative Literature Association Annual Meeting, New Orleans.
 “‘Soviet Pantheism’: Modernism and the Critique of Ideology.”
 Association for Asian Studies Annual Meeting, Philadelphia.
 
-.. 25 March 2010 (?) 
+.. 25 March 2010 (?)
 
 **2009**
 “Where is Hasan the Potter Now? A Literary Representation of Failed Artistic Personhood.”
@@ -559,8 +559,11 @@ Center for Advanced Research in Language Acquisition Mini-Grant ($3000)
 Fellowships
 -----------
 
-**2016-**
-Mellon New Directions Fellowship
+**2016-2019**
+Andrew W. Mellon New Directions Fellowship
+("Publics of Sound:
+Data-Rich Analysis for Understanding the Politics of Poetic Innovation
+in Modern South Asia")
 
 **2011**
 American Institute of Pakistan Studies
@@ -734,8 +737,8 @@ Languages
 
 **reading:** French, German
 
-**programming:** Python, Perl, Mathlab, R, Java, Javascript, PHP, XSLT
+**programming:** C/C++, Java, Javascript, Mathlab, Perl, PHP, Python, R, XSLT
 
 .. admonition:: The current PDF version of this C.V. is available at http://seanpue.com/cv.pdf
 
-   This C.V. was last updated on 26 August 2016.
+   This C.V. was last updated on 22 October 2016.
