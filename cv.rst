@@ -103,7 +103,7 @@ Articles
 *Pakistaniaat* 5.1 (2013): 1-15.
 
 **2012**
-“Ephemeral Asia: N. M. Rashed’s A Stranger in Iran.”
+“Ephemeral Asia: N. M. Rashed’s *A Stranger in Iran*.”
 *Comparative Literature* 64.1 (2012): 73-92.
 
 **2011**
@@ -125,6 +125,19 @@ Articles
 **2008**
 “Web-Browser Extensions for South Asia Language Classrooms.”
 *South Asia Language Pedagogy and Technology* 1 (2008).
+
+Conference Proceedings
+======================
+
+**2018**
+
+A. Sean Pue and Scott Nelson. 
+“Marking Poetic Time: Building and Annotating a Hindi-Urdu Poetry Corpus for Computational Humanities Research.” 
+*Proceedings of the Second Workshop on Corpus-based Research in the Humanities (CRH-2)*, 171-180. 
+
+.. Edited by Andrew U. Frank, Christine Ivanovic, Francesco Mambrini, Marco Passarotti, Caroline Sporleder.
+.. volume 1, series: Gerastree Proceedings
+.. 978-3-901716-43-0.
 
 Book Chapters
 =============
@@ -192,6 +205,23 @@ Conference Papers
 =================
 
 .. Exact dates follow in comments.
+
+**2018**
+“Acoustic Traces of Poetry in South Asia.” Questioning South Asia Conference, Habib University, Karachi.
+
+.. 2 February 2018 (Presented Online; https://habib.edu.pk/questioningsouthasia/)
+
+**2018**
+A. Sean Pue and Scott Nelson. “Marking Poetic Time: Building and Annnotating a Hindi-Urdu Poetry Corpus for Computational Humanities Research.”
+Corpus-Based Research in the Humanities (CRH-2), TU Wien, Vienna, Austria.
+
+.. 25 January 2018
+
+**2017**
+“Towards a Media Archaeology of the Middlebrow Aesthetics of Urdu Poetry on the Internet.” Urdu and Popular Culture Conference,
+Jawaharlal Nehru University, New Delhi.
+
+.. 9 September 2017
 
 **2017**
 “Textual Encoding of Hindi/Urdu Poetry for Cross-lingual Analysis.”
@@ -342,14 +372,42 @@ Invited Presentations
 .. Exact dates follow in comments.
 
 
-**2016**
+**2017**
+“Digital Humanities and Urdu Poetry.” Center for Language Engineering, University of Engineering and Technology, Lahore.
 
+.. 4 December 2017
+
+**2017**
+“Digital Humanities and N. M. Rashed” (in Urdu). Government Zamindar Post Graduate College, Gujarat, Pakistan.
+
+.. 30 November 2017
+
+**2017**
+“Urdu Poetry on the Internet.” Habib University, Karachi.
+
+.. 23 November 2017
+
+**2017**
+“Urdu Poetry on the Internet.” Institute of Business Administration, Karachi.
+
+.. 23 November 2017
+
+**2017**
+“Digital Humanities and Hindi/Urdu Poetry.” International Institute of Information Technology, Hyderabad, India.
+
+.. 15 September 2017
+
+.. Rethinking Modernism and Progressivism in Urdu Poetry: Faiz Ahmed Faiz and N. M. Rashed
+.. Sham-e Faiz, Michigan State University Pakistan Student's Association.
+
+.. 26 March 2017
+
+**2016**
 “Textual Encoding of Hindi/Urdu Poetry for Data-Rich Literary Analysis.” Digital Textualities of South Asia Symposium, University of British Columbia.
 
 .. 4 March 2016
 
 **2016**
-
 “Textual Encoding for South Asian Language Pedagogy and Digital Humanities.” CeLTA Professional Development Workshop, Michigan State University.
 
 .. 3 March 2016
@@ -751,4 +809,4 @@ Languages
 
 .. admonition:: The current PDF version of this C.V. is available at http://seanpue.com/cv.pdf
 
-   This C.V. was last updated on 30 October 2017.
+   This C.V. was last updated on 10 January 2018.
