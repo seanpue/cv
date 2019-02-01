@@ -24,7 +24,7 @@
 .. raw:: html
 
    <style type="text/css">
-        .section p { padding-left: 1.5em;
+        p { padding-left: 1.5em;
             text-indent: -1.5em;
           }
         .admonition p {
@@ -735,7 +735,11 @@ Michigan State University
 
 AL 340: Digital Humanities Seminar (Spring 2013, Spring 2014, Spring 2015)
 
+ASN 291: Introduction to History and Culture of India and South Asia (Spring 2019)
+
 ASN 491: Literatures of South Asia: Language, Literature, and Belonging (Spring 2016)
+
+DH 491.1: Data and the Humanities (Spring 2019)
 
 GSAH 200: Questions, Issues, and Debates in Global Studies (Fall 2014)
 
@@ -789,6 +793,17 @@ South Asian Muslim Studies Association, Board of Trustees
 Michigan State University
 =========================
 
+**2018–**
+Global Studies in Arts and Humanities Advisory Committee
+
+**2018–**
+Asian Studies Center Advisory Board
+
+**2018–**
+Muslim Studies Currriculum Committee
+
+**2018–**
+University Committee on the Libraries
 
 **2015–16**
 Global Studies in Arts and Humanities Events Committee
