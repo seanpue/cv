@@ -840,6 +840,6 @@ Languages
 
 **programming:** C/C++, Java, Javascript, Matlab, Perl, PHP, Python, R, XSLT
 
-.. admonition:: The current PDF version of this C.V. is available at http://seanpue.com/cv.pdf
+.. admonition:: The current PDF version of this C.V. is available at https://seanpue.com/cv.pdf
 
    This C.V. was last updated on 31 January 2019.
