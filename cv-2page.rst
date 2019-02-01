@@ -33,6 +33,7 @@
 -------------------
 Contact Information
 -------------------
+
 | **e-mail:**
   pue@msu.edu
   **twitter:**
@@ -50,14 +51,15 @@ Academic Appointment
 | **2014–**
     Associate Professor, Michigan State University
 |   Department of Linguistics and Germanic, Slavic, Asian, and African Languages
+|   Core Faculty, Digital Humanities
 |   Core Faculty, Global Studies in Arts and Humanities
-
 | **2008–14**
     Assistant Professor, Michigan State University
 
 --------------------------
 Administrative Appointment
 --------------------------
+
 | **2015–6**
     Director of Digital Humanities
 |   College of Arts and Letters, Michigan State University
@@ -65,10 +67,10 @@ Administrative Appointment
 ---------
 Education
 ---------
+
 | **2007**
     Ph.D., Columbia University
 |   Middle East and Asian Languages and Cultures and Comparative Literature and Society
-
 | **1997**
     B.A., University of California
 |   Religious Studies, South and South East Asian Studies
@@ -79,11 +81,21 @@ Publications
 
 Book
 ====
+
 *I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry*.
 Berkeley, CA: University of California Press, 2014.
 
-Selected Articles
-=================
+Selected Articles and Conference Proceedings
+============================================
+**2018**
+A. Sean Pue and Scott Nelson.
+“Marking Poetic Time: Building and Annotating a Hindi-Urdu Poetry Corpus for Computational Humanities Research.”
+*Proceedings of the Second Workshop on Corpus-based Research in the Humanities (CRH-2)*, 171-180.
+
+.. Edited by Andrew U. Frank, Christine Ivanovic, Francesco Mambrini, Marco Passarotti, Caroline Sporleder.
+.. volume 1, series: Gerastree Proceedings
+.. 978-3-901716-43-0.
+
 **2013**
 “Rethinking Modernism and Progressivism in Urdu Poetry.”
 *Pakistaniaat* 5.1 (2013): 1-15.
@@ -150,36 +162,27 @@ AL 340: Digital Humanities Seminar (Spring 2013, Spring 2014, Spring 2015)
 
 ASN 491: Language, Literature, and Belonging in India and South Asia (Spring 2016)
 
-GSAH 311: Partition, Displacement, and Cultural Memory (Fall 2013)
+GSAH 200: Questions, Issues, and Debates in Global Studies (Fall 2014)
 
 GSAH 220: Global Espionage: Identity, Intelligence, Power (Fall 2012)
 
 GSAH 230: Encountering Difference: East-West, North-South (Fall 2009, Fall 2010, Fall 2011)
 
+GSAH 311: Partition, Displacement, and Cultural Memory (Fall 2013)
+
+GSAH 312: Global Digital Cultures (Fall 2017)
+
 GSAH 499: Senior Thesis in Global Studies in Arts and Humanities (Spring 2015)
 
 IAH 211B: Gandhi’s India in History, Literature, and Film (Spring 2009, Spring 2010)
 
-LL151.2: Basic Hindi I (Fall 2008, Fall 2009, Fall 2010, Fall 2012)
+LL151/2.2: Basic Hindi I/II (2008–9, 2009–10, 2012–13, 2015)
 
-LL152.2 Basic Hindi II (Spring 2009, Spring 2010, Spring 2013, Spring 2015)
+LL251/2.2: Intermediate Hindi I/II (2010, 2011, 2013)
 
-LL251.2: Intermediate Hindi I (Fall 2010, Fall 2011, Fall 2013)
+LL251.23: Elementary Urdu I (2017)
 
-LL252.2: Intermediate Hindi II (Spring 2014)
-
--------
-Service
--------
-
-National
-========
-
-**2013–16**
-American Institute of Pakistan Studies, Executive Committee
-
-**2009-**
-American Institute of Pakistan Studies, Board of Trustees
+REL345: Religion in South Asia (Fall 2015)
 
 ---------
 Languages
@@ -190,8 +193,8 @@ Languages
 
 **reading:** French, German
 
-**programming:** Python, Perl, Mathlab, R, C/C++, Java, Javascript, PHP, XSLT
+**programming:** C/C++, Java, Javascript, Matlab, Perl, PHP, Python, R, XSLT
 
 .. admonition:: The full version of this C.V. is available at http://seanpue.com/cv
 
-   This abbreviated C.V. was last updated on 31 October 2016.
+   This abbreviated C.V. was last updated on 25 November 2018.
