@@ -873,4 +873,4 @@ Languages
 
 .. admonition:: The current PDF version of this C.V. is available at https://seanpue.com/cv.pdf
 
-   This C.V. was last updated on 14 May 2019.
+   This C.V. was last updated on 28 July 2019.
