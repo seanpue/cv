@@ -103,7 +103,7 @@ Articles
 ========
 **2019**
 “Acoustic Traces of Poetry in South Asia.” *South Asia Review* 40.3 (2019), 221–236,
-<https://doi.org/10.1080/02759527.2019.1599561>
+`DOI: 10.1080/02759527.2019.1599561 <https://doi.org/10.1080/02759527.2019.1599561>`_.
 
 **2013**
 “Rethinking Modernism and Progressivism in Urdu Poetry.”
